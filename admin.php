@@ -7,4 +7,3 @@ require 'includes/header.php';
     <script>
     function triggered(){
         
-    }
