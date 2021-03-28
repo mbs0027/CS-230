@@ -6,4 +6,5 @@ require 'includes/header.php';
     <link rel="stylesheet" href="css/profile.css">
     <script>
     function triggered(){
-        
+
+    }  
